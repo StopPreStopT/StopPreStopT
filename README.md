@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @StopPreStopT
+- 👀 I’m interested in learning the basics of coding
+- 🌱 I’m currently learning about GitHub
+- 💞️ I’m looking to collaborate on TBD
